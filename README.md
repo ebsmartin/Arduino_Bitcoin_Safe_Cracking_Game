@@ -63,10 +63,10 @@ Arduino 'Safe-Cracking' game where you try to crack into a BTC safe. Failure is 
 
 Challenges / Issues :
 
-  - The game only works on random number generation mode currently
-    - This is simply due to the fact that I did not parse the user input string into three separate ints
-  - Screen text must fully cycle through loop before user input is read
-    - This makes for some wait time after user input
-  - I could not get the target number to cause a unique ‘click’ when you turn to the number
-    - The unique ‘click’ sound will only occur once you pass the number in either direction.
-  - Rotary Encoder could be better secured into box
+    - The game only works on random number generation mode currently
+      - This is simply due to the fact that I did not parse the user input string into three separate ints
+    - Screen text must fully cycle through loop before user input is read
+      - This makes for some wait time after user input
+    - I could not get the target number to cause a unique ‘click’ when you turn to the number
+      - The unique ‘click’ sound will only occur once you pass the number in either direction.
+    - Rotary Encoder could be better secured into box
